@@ -1,3 +1,4 @@
+# Chat With PDF
 This project allows users to upload PDF files and interact with their content using a conversational interface.
 The application uses Google Gemini's Large Language Model (LLM) and Retrieval-Augmented Generation (RAG) for intelligent responses based on PDF content.
 
